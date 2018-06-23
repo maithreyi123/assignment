@@ -1,33 +1,31 @@
- nav li {
-        display:inline;
-    text-transform:uppercase;
-    margin-top:10;
 
-    }
     header {
-        background-color:rgb(121, 190, 215);
+        background-color: rgba(80, 27, 2, 0.89);
         position: fixed;
+        width: 100%;
+        color:white;
+        height: 85px;
     }
     .one {
     
-        background-color:white;
-    margin-top: 95px;
-    margin-bottom: 10px;
-    margin-left: 0px;
+        background-color:rgb(226, 240, 237);
+        margin-top: 100px;
+        margin-bottom: 10px;
+        margin-left: 0px;
         padding-top: 10px;
        }
-       .image aside {
+ .image aside {
            float: left;
        }
-.f,.y,.i,.t {s
+.fa,.yo,.in,.tw {
     float: left;
     padding: 5px;
 }
     
     footer {
-        background:rgb(121,190,215);
-        margin-left:0;
-        height: 70px;
+        background:rgba(80, 27, 2, 0.89);
+        height: 90px;
+        width: 100%;
     
     }
     a: hover {
@@ -39,11 +37,87 @@
     font-family:'Carter One', cursive;
     
   }
-  .image{
+  .image aside{
       margin-top: 90px;
   }
   .down {
-      float:right;
-      margin-top: 20px;
+     float: right;
+     
   }
   
+  .down a{
+    float: top;
+  color:rgb(231, 217, 199);
+  padding: 10px;
+ 
+  }
+  .down a:hover{
+  font-size:120%;
+  height: 20%;
+  color:white;
+ 
+  }
+  .four{
+ margin-top: 30px;
+ float:right;
+font-size:15px;
+margin-right:20px;
+text-transform: uppercase;
+display:inline;
+ }
+ .four a{
+     color:white;
+     text-decoration: none;
+ }
+ .four a:hover{
+     background-color:rgb(32, 32, 27);
+ }
+  ul li{
+      
+      display:inline;
+  }
+  h3{
+      margin-left: 50px;
+      color: rgb(51, 39, 43);
+      font-size: 22%;
+  }
+  h2{
+      color: rgb(9, 35, 112);
+    
+  }
+ .two{
+     margin-left: 20px;
+     padding:20px;
+ }
+
+ .milk{
+     background-color: rgba(245, 209, 208, 0.966);   
+ }
+ .white{ 
+     background-color: rgb(232, 222, 241);
+     
+ }
+ .dark{
+     background-color: rgb(240, 230, 208);
+ }
+ .raw{
+     background-color: rgba(226, 241, 205, 0.932);
+     
+ }
+ .modeling{
+     background-color: rgb(226, 213, 181);
+     
+ }
+ .organic {
+     background-color: rgb(216, 212, 212);   
+ }
+ .six{
+     background-color: whitesmoke;
+ }
+ .nine{
+     background-color: rgba(245, 212, 241, 0.61);
+ }
+ .up{
+     
+     color:white;
+ }
