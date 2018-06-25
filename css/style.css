@@ -88,6 +88,7 @@ display:inline;
  .two{
      margin-left: 20px;
      padding:20px;
+     text-transform: uppercase
  }
 
  .milk{
