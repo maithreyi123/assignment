@@ -1,0 +1,12 @@
+# www.robotstxt.org/
+
+# TEAM
+
+    Stack Route
+
+# THANKS
+
+    N. Leela Maithreyi
+
+User-agent: visual studio
+
